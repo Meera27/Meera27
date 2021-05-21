@@ -20,3 +20,11 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=meera27&show_icons=true&locale=en&layout=compact" alt="meera27" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=meera27&show_icons=true&locale=en" alt="meera27" /></p>
+📊 **This week I spent my time on**
+
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=Meera27&hide_title=true&hide_border=true&langs_count=3)
+
+
+
+<!-- <img align="center" alt="Tonal's github stats" src="https://github-readme-stats.tonalmathew.vercel.app/api?username=tonalmathew&show_icons=true&hide_border=true"/>
+-->
