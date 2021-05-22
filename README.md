@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Meera M Nair</h1>
 <h3 align="center">A passionate developer from Kerala,India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=meera27&label=Profile%20views&color=0e75b6&style=flat" alt="meera27" /> </p>
-
 - 🌱 I’m currently learning **Angular**
 
 - 💬 Ask me about **HTML,CSS,JS**
