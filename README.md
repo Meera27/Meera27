@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1N0NR52voVAhwAUcfdLdwd1VpvDnxZOas/view?usp=sharing](https://drive.google.com/file/d/1N0NR52voVAhwAUcfdLdwd1VpvDnxZOas/view?usp=sharing)
 
-- ⚡ Fun fact **: hmmm...**
+- ⚡ Fun fact **:**
 
 
 <h3 align="left">Languages and Tools:</h3>
