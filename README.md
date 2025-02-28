@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meera27&label=Profile%20views&color=0e75b6&style=flat" alt="meera27" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=meera27" alt="meera27" /></a> </p>
-
 - 🌱 I’m currently learning **React.js, Next.js**
 
 - 👨‍💻 All of my projects are available at [https://meera-portfolio.vercel.app/](https://meera-portfolio.vercel.app/)
@@ -25,4 +23,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=meera27&show_icons=true&locale=en&layout=compact" alt="meera27" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=meera27&" alt="meera27" /></p>
-
