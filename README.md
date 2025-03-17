@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Meera</h1>
-<h3 align="center">A Software Developer from Montreal</h3>
+<h3 align="center">A Full Stack Developer from Montreal</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meera27&label=Profile%20views&color=0e75b6&style=flat" alt="meera27" /> </p>
 
