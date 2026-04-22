@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Meera</h1>
 
 <h3 align="center">
-Full stack developer building real-world apps, exploring AI, and occasionally arguing with CSS 😄
+Full stack developer building real-world apps 🤖 | Exploring AI | Fighting CSS 😄
 </h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2l6azQxNGl4MGNiMDh2NHdxcTZpa3ZubzEwdHJ1Nzgxd2podWgyZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/mcsPU3SkKrYDdW3aAU/giphy.gif" width="400" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,ts,postgres,mongodb,docker,figma" />
 </p>
 
 ---
