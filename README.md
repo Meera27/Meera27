@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Meera</h1>
-<h3 align="center">A frontend developer from India</h3>
-
+<h3 align="center">Full stack developer who writes code, breaks code, and then fixes it 😄</h3>
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2l6azQxNGl4MGNiMDh2NHdxcTZpa3ZubzEwdHJ1Nzgxd2podWgyZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/mcsPU3SkKrYDdW3aAU/giphy.gif" width="400" />
+</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meera27&label=Profile%20views&color=0e75b6&style=flat" alt="meera27" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=meera27" alt="meera27" /></a> </p>
