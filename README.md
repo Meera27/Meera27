@@ -23,13 +23,13 @@ Full stack developer building real-world apps 🤖 | Exploring AI | Fighting CSS
 ## 🛠️ Tech Stack
 
 ### 💡 Frontend
-React.js • Vue.js • TypeScript • HTML • CSS • Tailwind
+React.js • Vue.js • Angular • TypeScript • Next.js • HTML • CSS • Tailwind
 
 ### ⚙️ Backend
-Node.js • Express • Java • Spring Boot
+Node.js • Express • Java • Spring Boot • Ruby on Rails
 
 ### 🗄️ Databases
-PostgreSQL • MongoDB • MySQL
+PostgreSQL • MySQL • MongoDB
 
 ### 🔧 Tools & Others
 Git • Docker • Postman • Figma • Linux
