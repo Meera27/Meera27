@@ -5,7 +5,7 @@
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meera27&label=Profile%20views&color=0e75b6&style=flat" alt="meera27" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=meera27" alt="meera27" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=meera27" alt="meera27" /></a> </p> -->
 
 - 🔭 I’m currently working on [resume-ai](https://github.com/Meera27/resum-ai)
 
