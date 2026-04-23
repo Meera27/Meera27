@@ -5,7 +5,7 @@ Full stack developer building real-world apps 🤖 | Exploring AI | Fighting CSS
 </h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,ts,postgres,express,rubyonrails,sql,mongodb,docker,figma" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,ts,postgres,express,rails,sql,mongodb,docker,figma,angular" />
 </p>
 
 ---
